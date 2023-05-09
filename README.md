@@ -9,3 +9,15 @@ There are lot of things that  I want to do in this game, but I'm taking baby ste
 
 you can check my main page on itch too, where I will uplo9atd the executable soon (in this github, there's already an exe file)
 ---> https://tatsuo-734.itch.io/
+
+
+ChangeLog:
+
+- Combat System
+- Inventory System (early)
+- Change between maps
+- Interaction with scenary
+- Change Weapon
+- Character basics status (life and energy)
+
+Discloaimer: For now, if you die, the game will crash :P
