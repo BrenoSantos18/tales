@@ -28,8 +28,7 @@
       <li>Interaction with scenary
       <li>Change Weapon
       <li>Character basics status (life and energy)
-
-        <p>Discloaimer: For now, if you die, the game will crash :P</p>
+        <p>Disclaimer: For now, if you die, the game will crash :P</p>
       
      
   </body>
