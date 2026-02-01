@@ -14,12 +14,7 @@
     <h2>About the Game</h2>
     <p>The game is still really eraly, but I've already programmed the base of the whole thing, like combat, change between maps, interaction with the scenary etc. However, there is a lot coming soon!</p>
     <p>The game follows the main character (who i haven't decide if he will have a fixed name or a input name) who came to Fortlkand, the map of the game, searching for his childhood friend, that went missing when they were just kids. He tought he was dead, but sure he wasn't.</p>
-    <p>The game takes a medieval scenario, and if my plans goes well, there will be a lot of paths that you can go, and you won't need to be trapped by the main history. But that is to the future, right?</p>
-     <p>There are of things that  I want to do in this game, but I'm taking baby steps yet. I will upload more content about how the game is going on my patreon page, so check it out!
-       <P><a href="https://patreon.com/Tatsuo543?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link">Patreon</>
-       
-  <p>You can check my main page on itch too, where I will uplo9atd the executable soon (in this github, there's already an exe file)</p>
-       <a href="https://tatsuo-734.itch.io/">Itch.io</a>
+    
     <h2>ChangeLog</h2>
     <ul>
       <li>Combat System
